@@ -21,5 +21,8 @@
  
    4. External API (Open Trivia Database):
      The app uses an external API (Open Trivia Database) to fetch quiz questions. This API provides various categories and difficulty levels, making the quiz content dynamic and varied.
+
+#Output Link
+ file:///C:/Users/sanja/quizapp/WEB-BASED-QUIZAPP/learninglogin.html
  
  
